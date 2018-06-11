@@ -2,4 +2,4 @@
 
 Debugging commits showing duplicate names.
 
-commit=2
+commit=3
